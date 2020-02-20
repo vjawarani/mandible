@@ -1,0 +1,8 @@
+mandible.py
+setup.py
+mandible.egg-info/PKG-INFO
+mandible.egg-info/SOURCES.txt
+mandible.egg-info/dependency_links.txt
+mandible.egg-info/entry_points.txt
+mandible.egg-info/requires.txt
+mandible.egg-info/top_level.txt

@@ -1,0 +1,26 @@
+{
+    "default":{
+        "defExt": "dmg",
+        "defFolder": "Downloads"
+    },
+    "presets":{
+        "1":{
+            "defExt": "jpg",
+            "defFolder": "Desktop"
+        },
+        "2":{
+            "defExt": null,
+            "defFolder": null
+        },
+        "3":{
+            "defExt": null,
+            "defFolder": null
+        },
+        "4":{
+            "defExt": null,
+            "defFolder": null
+        }
+    }
+    
+    
+}
