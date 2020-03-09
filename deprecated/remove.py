@@ -9,6 +9,3 @@ def remove(path, ext):
             os.remove(f)
 
     print("Removed " + removed + "files!")
-
-if __name__ == '__main__':
-    remove(path, ext)

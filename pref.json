@@ -1,26 +1,24 @@
 {
-    "default":{
+    "default": {
         "defExt": "dmg",
-        "defFolder": "Downloads"
+        "defFolder": "~/Downloads"
     },
-    "presets":{
-        "1":{
+    "presets": {
+        "1": {
             "defExt": "jpg",
-            "defFolder": "Desktop"
+            "defFolder": "~/Desktop"
         },
-        "2":{
+        "2": {
+            "defExt": "png",
+            "defFolder": "~/Desktop"
+        },
+        "3": {
             "defExt": null,
             "defFolder": null
         },
-        "3":{
-            "defExt": null,
-            "defFolder": null
-        },
-        "4":{
+        "4": {
             "defExt": null,
             "defFolder": null
         }
     }
-    
-    
 }

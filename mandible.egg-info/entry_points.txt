@@ -1,4 +1,4 @@
 
         [console_scripts]
-        mandible=yourscript:default
+        mandible=mandible:cli
     
