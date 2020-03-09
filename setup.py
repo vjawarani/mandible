@@ -9,6 +9,6 @@ setup(
     ],
     entry_points='''
         [console_scripts]
-        mandible=mandible:default
+        mandible=mandible:defaultrm
     ''',
 )
